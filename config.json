@@ -80,6 +80,10 @@
     "huawei": {
       "api": "https://hw8.live/api.php/provide/vod",
       "name": "华为"
+    },
+    "jinying": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰"
     }
   }
 }
