@@ -92,11 +92,6 @@
     "huawei": {
       "api": "https://hw8.live/api.php/provide/vod",
       "name": "华为"
-    },
-    "lebo": {
-      "api": "https://lbapi9.com/api.php/provide/vod",
-      "name": "乐播"
-   
     }
   }
 }
