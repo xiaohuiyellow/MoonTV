@@ -85,10 +85,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "115ziyuan": {
-      "api": "https://155api.com/api.php/provide/vod",
-      "name": "115资源"
-    },
     "huawei": {
       "api": "https://hw8.live/api.php/provide/vod",
       "name": "华为"
