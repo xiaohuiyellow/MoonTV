@@ -116,6 +116,114 @@
     "shenma": {
       "api": "https://smzy.com/api.php/provide/vod",
       "name": "神马"
+    },
+    "taopian": {
+      "api": "https://taopianapi.com/home/cjapi/as/vod",
+      "name": "淘片"
+    },
+    "tiankong": {
+      "api": "https://api.tiankongapi.com/api.php/provide/vod",
+      "name": "天空"
+    },
+    "wukong": {
+      "api": "https://wukongzy.com/api.php/provide/vod",
+      "name": "悟空"
+    },
+    "xiangjiao": {
+      "api": "https://xjzy.com/api.php/provide/vod",
+      "name": "香蕉"
+    },
+    "xinlang": {
+      "api": "https://api.xinlangapi.com/api.php/provide/vod",
+      "name": "新浪"
+    },
+    "yatu": {
+      "api": "https://yatuzy.com/api.php/provide/vod",
+      "name": "雅图"
+    },
+    "yjys": {
+      "api": "https://api.yjys.me/api.php/provide/vod",
+      "name": "yjys"
+    },
+    "yongjiu": {
+      "api": "https://yongjiuzy.com/api.php/provide/vod",
+      "name": "yongjiu"
+    },
+    "zhiling": {
+      "api": "https://zhilingzy.com/api.php/provide/vod",
+      "name": "zhiling"
+    },
+    "zuida": {
+      "api": "https://zuidazy.com/api.php/provide/vod",
+      "name": "zuida"
+    },
+    "agzy": {
+      "api": "https://agzy.com/api.php/provide/vod",
+      "name": "agzy"
+    },
+    "bajie": {
+      "api": "http://zy.bajieziyuan.com/api.php/provide/vod",
+      "name": "bajie"
+    },
+    "baozou": {
+      "api": "http://www.baozouzy.com/api.php/provide/vod",
+      "name": "baozou"
+    },
+    "chaofan": {
+      "api": "https://cfzy.com/api.php/provide/vod",
+      "name": "chaofan"
+    },
+    "feisu": {
+      "api": "https://www.feisuzy.com/api.php/provide/vod",
+      "name": "feisu"
+    },
+    "gaoqing": {
+      "api": "https://gaoqingzy.com/api.php/provide/vod",
+      "name": "gaoqing"
+    },
+    "huohua": {
+      "api": "https://huohuazy.com/api.php/provide/vod",
+      "name": "huohua"
+    },
+    "kankan": {
+      "api": "http://kankanzy.com/api.php/provide/vod",
+      "name": "kankan"
+    },
+    "laoya": {
+      "api": "http://laoyazy.com/api.php/provide/vod",
+      "name": "laoya"
+    },
+    "longma": {
+      "api": "http://longmazy.com/api.php/provide/vod",
+      "name": "longma"
+    },
+    "niuren": {
+      "api": "http://www.niurenzy.com/api.php/provide/vod",
+      "name": "niuren"    
+    },
+    "piaohua": {
+      "api": "http://www.piaohuazy.com/api.php/provide/vod",
+      "name": "piaohua"
+    },
+    "baiwan": {
+      "api": "https://www.baiwanzy.com/api.php/provide/vod",
+      "name": "baiwan"
+    },
+    "baiduyun": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "baiduyun"
+    },
+    "uku": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "uku"
+    },
+    "qilin": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "qilin"
+    },
+    "tomato": {
+      "api": "http://api.fqzy.cc/api.php/provide/vod",
+      "name": "tomato"
     }
   }
 }
